@@ -1,6 +1,7 @@
 package com.patelheggere.myfirstlibrary;
 
 public class TetsClass {
+
     public String getTest() {
         return test;
     }
@@ -9,7 +10,7 @@ public class TetsClass {
         this.test = test;
     }
 
-    String test;
+    public String test;
     public TetsClass()
     {
         this.test = "Veerendra";
