@@ -10,7 +10,7 @@ public class TetsClass {
     }
 
     String test;
-    TetsClass()
+    public TetsClass()
     {
         this.test = "Veerendra";
     }
